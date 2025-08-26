@@ -1,6 +1,10 @@
 <!-- Banner -->
-<h1 align="center">Gabriel Martins 🚀</h1>
-<h3 align="center">this is my world 👨‍💻</h3>
+<div align="center">
+
+  <h1 style="display:inline; margin-right: 10px;">Gabriel Martins 🚀</h1>
+  <h3 style="display:inline; color: gray;">this is my world 👨‍💻</h3>
+
+  <br><br>
 
 ---
 
@@ -31,9 +35,18 @@
 ---
 
 ## 🤝 Let’s Connect
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmartins-/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511997458540)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gmartins9042@gmail.com)  
+  <div style="display:flex; justify-content:center; gap:10px;">
+    <a href="https://www.linkedin.com/in/gabrielmartins-/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://api.whatsapp.com/send/?phone=5511997458540">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white">
+    </a>
+    <a href="mailto:gmartins9042@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
+    </a>
+  </div>
+ 
 
 ---
 
