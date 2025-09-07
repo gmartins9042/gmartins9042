@@ -72,9 +72,6 @@
 ---
 
 ## 🚀 Featured Projects
---- 
-
-## 🚀 Featured Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmartins9042&repo=blogpessoal&theme=dracula)](https://github.com/gmartins9042/blogpessoal)  
 **blogpessoal**: Personal blog built with Node.js and TypeScript, featuring CRUD operations and user authentication.  
 
