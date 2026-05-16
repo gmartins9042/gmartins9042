@@ -62,13 +62,6 @@ and learning better ways to design reliable applications.
 
 ## Featured Projects
 
-### Blog Pessoal
-
-Personal blog API developed with Node.js and TypeScript, including CRUD
-operations, user authentication, and organized business logic.
-
-[Repository](https://github.com/gmartins9042/blogpessoal)
-
 ### Protectron
 
 Team collaboration application designed to manage tasks and support organized
@@ -76,24 +69,12 @@ workflows with an intuitive interface.
 
 [Repository](https://github.com/Grupo-05-Turma-JavaScript-08/app-protectron)
 
-### CarProtect
+### NexoCar
 
 API for car insurance management, with features for creating, tracking, and
 administering insurance policies.
 
 [Repository](https://github.com/Grupo-05-Turma-JavaScript-08/CarProtect)
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmartins9042&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmartins9042&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
