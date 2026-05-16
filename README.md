@@ -1,88 +1,113 @@
-<!-- Banner -->
 <div align="center">
 
-  <h1 style="display:inline; margin-right: 10px;">Gabriel Martins 🚀</h1>
-  <h3 style="display:inline; color: gray;">this is my world 👨‍💻</h3>
+# Gabriel Martins
 
-  <br><br>
+**Full Stack Developer | JavaScript | TypeScript | Java | Spring Boot**
 
----
+Building practical web applications, APIs, and backend services with clean code,
+solid architecture, and continuous learning.
 
-## ​ About Me
-- 🌱 Building cool projects and leveling up my coding skills one commit at a time  
-- 🎓 FullStack JavaScript Bootcamp @ Generation Brasil  
-- 💻 Focused on Full Stack Development (JavaScript / TypeScript / Java / Spring)  
-- 💡 Passionate about solving problems with technology and creating innovative solutions  
-- 🧭 Always looking for the next tech adventure  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmartins-/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmartins9042@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gmartins9042)
 
----
-
-## 🛠️ Technologies & Tools
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="NestJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
 ---
 
-## 🤝 Let’s Connect
-  <div style="display:flex; justify-content:center; gap:10px;">
-    <a href="https://www.linkedin.com/in/gabrielmartins-/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://api.whatsapp.com/send/?phone=5511997458540">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white">
-    </a>
-    <a href="mailto:gmartins9042@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
-    </a>
-  </div>
- 
+## About Me
+
+I am a developer focused on building complete solutions, from backend APIs to
+frontend interfaces. My current stack is centered on JavaScript, TypeScript,
+Node.js, Java, Spring Boot, and relational databases.
+
+I enjoy turning business rules into organized code, improving user experience,
+and learning better ways to design reliable applications.
+
+- Full Stack JavaScript Bootcamp at Generation Brasil
+- Focused on backend development, APIs, databases, and full stack applications
+- Interested in clean architecture, REST APIs, authentication, and scalable systems
+- Constantly improving through projects, practice, and real-world problem solving
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmartins9042&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmartins9042&layout=compact&theme=dracula)  
+## Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases and Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🔥 Visual Highlights
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmartins9042&theme=dracula)
+## Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gmartins9042&theme=dracula" alt="Stats Card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gmartins9042&theme=dracula&utcOffset=3" alt="Commits Card"/>
-</p>
+### Blog Pessoal
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gmartins9042&theme=dracula" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gmartins9042&theme=dracula" alt="Most Commit Language"/>
-</p>
+Personal blog API developed with Node.js and TypeScript, including CRUD
+operations, user authentication, and organized business logic.
 
----
+[Repository](https://github.com/gmartins9042/blogpessoal)
 
-## 🚀 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmartins9042&repo=blogpessoal&theme=dracula)](https://github.com/gmartins9042/blogpessoal)  
-**blogpessoal**: Personal blog built with Node.js and TypeScript, featuring CRUD operations and user authentication.  
+### Protectron
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grupo-05-Turma-JavaScript-08&repo=app-protectron&theme=dracula)](https://github.com/Grupo-05-Turma-JavaScript-08/app-protectron)  
-**app-protectron**: Task management app designed for team collaboration with intuitive interface and task tracking.  
+Team collaboration application designed to manage tasks and support organized
+workflows with an intuitive interface.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grupo-05-Turma-JavaScript-08&repo=CarProtect&theme=dracula)](https://github.com/Grupo-05-Turma-JavaScript-08/CarProtect)  
-**CarProtect**: API for car insurance management, allowing creation, tracking, and administration of insurance policies.
+[Repository](https://github.com/Grupo-05-Turma-JavaScript-08/app-protectron)
 
+### CarProtect
+
+API for car insurance management, with features for creating, tracking, and
+administering insurance policies.
+
+[Repository](https://github.com/Grupo-05-Turma-JavaScript-08/CarProtect)
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gmartins9042)
+## GitHub Analytics
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmartins9042&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmartins9042&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## Current Focus
+
+- Strengthening backend development with Java, Spring Boot, Node.js, and NestJS
+- Building APIs with authentication, validation, and database integration
+- Improving TypeScript, testing practices, and project organization
+- Publishing projects with professional documentation and clean repositories
+
+---
+
+<div align="center">
+
+**Open to learning, collaboration, and new development opportunities.**
+
+</div>
